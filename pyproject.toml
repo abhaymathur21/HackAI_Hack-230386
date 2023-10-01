@@ -13,7 +13,7 @@ repository = "https://github.com/abhaymathur21/Temperature_Alert_Agent"
 homepage = ""
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.8"
 uAgents = "*"
 
 
