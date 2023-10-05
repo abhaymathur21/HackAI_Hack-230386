@@ -13,8 +13,9 @@ repository = "https://github.com/abhaymathur21/Temperature_Alert_Agent"
 homepage = ""
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 uAgents = "*"
+colored = "^2.2.3"
 
 
 [build-system]
