@@ -1,6 +1,7 @@
 **Project name:** Temperature Alert Agent
 
-**Description**
+**Description:**
+
 In this project we have made an application that:
 - Lets users set their preferred temperature range (e.g. a minimum and maximum temperature) and location
 - Sends an alert notification to the user when the temperature in their chosen location goes below the minimum or above the maximum threshold they've set
