@@ -27,15 +27,15 @@ git clone https://github.com/abhaymathur21/Temperature_Alert_Agent.git
 - Install poetry (we installed it in WSL): https://python-poetry.org/docs/#installing-with-the-official-installer
 
 - Then type the following commands in the terminal opened in Temperature_Alert_Agent:
-poetry shell
-poetry install 
-cd src
-poetry run python3 main.py
+    - poetry shell
+    - poetry install 
+    - cd src
+    - poetry run python3 main.py
 
 - Then,
-Enter a location
-Enter the minimum temperature of your range
-Enter the maximum temperature of your range
+    - Enter a location
+    - Enter the minimum temperature of your range
+    - Enter the maximum temperature of your range
 
 *The program will now send you an alert in the terminal itself if the current temperature of the location you mentioned is above or below your specified temperature range.*
 
