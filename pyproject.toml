@@ -16,6 +16,7 @@ homepage = ""
 python = "^3.9"
 uAgents = "*"
 colored = "^2.2.3"
+python-dotenv = "^1.0.0"
 
 
 [build-system]

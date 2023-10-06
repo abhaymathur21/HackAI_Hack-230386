@@ -6,6 +6,7 @@ from agents.temperature.TemperatureAlertAgent import alert_agent
 
 from agents.temperature.message_printer import message_printer
 
+#Here we have created a bureau and added the agents to it
 bureau = Bureau()
 bureau.add(alert_agent)
 bureau.add(message_printer)
