@@ -20,7 +20,7 @@
 <h3>INSTRUCTIONS TO RUN THIS PROJECT:</h3>
 
 - Clone this repository into a folder:
-git clone https://github.com/abhaymathur21/Temperature_Alert_Agent.git
+git clone https://github.com/abhaymathur21/HackAI_Hack-230386.git
 
 - Open a Terminal in the folder
 

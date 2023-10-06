@@ -9,7 +9,7 @@ authors = [
     "Shruti Shah <shrutiashah22@gmail.com>",
 ]
 readme = "README.md"
-repository = "https://github.com/abhaymathur21/Temperature_Alert_Agent"
+repository = "https://github.com/abhaymathur21/HackAI_Hack-230386"
 homepage = ""
 
 [tool.poetry.dependencies]
