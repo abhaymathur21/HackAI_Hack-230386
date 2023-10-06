@@ -1,6 +1,6 @@
 <h1>Temperature Alert Agent</h1>
 
-<h3>DESCRIPTION:</h3>
+<u><h3>Description:</h3></u>
 
 **In this project we have made an application that:**
 - Lets users set their preferred temperature range (e.g. a minimum and maximum temperature) and location
