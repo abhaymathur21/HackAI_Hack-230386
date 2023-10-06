@@ -56,10 +56,10 @@ alert_agent = TemperatureAlertAgent(
     name="alert_agent",
     seed="alert_agent_seed",
     endpoint=["http://localhost:8000"],
-    location=input("Enter Location "),
+    location=input("Enter Location: "),
     port=8000,
-    min_temp=float(input("Enter Minimum Temperature ")),
-    max_temp=float(input("Enter Maximum Temperature ")),
+    min_temp=float(input("Enter Minimum Temperature: ")),
+    max_temp=float(input("Enter Maximum Temperature: ")),
     api_key=api_key,
 )
 
