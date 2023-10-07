@@ -15,7 +15,7 @@
 - To create an API key, go to https://openweathermap.org/ and make an account
 - Once you are logged in, go to the 'My API keys' section of your profile and generate a new API key with the name uAgents
 - Make sure its status says 'Active'
-- Copy paste that API into the quotes above.
+- Copy paste that API key into API_KEY variable defined in the src/agents/temperature/.env file
 
 <h3>INSTRUCTIONS TO RUN THIS PROJECT:</h3>
 
